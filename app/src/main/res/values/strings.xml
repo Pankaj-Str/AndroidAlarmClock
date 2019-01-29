@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Alarm Clock</string>
+    <string name="stop_alarm">Stop Alarm</string>
+    <string name="start_alarm">Start Alarm</string>
+    <string name="edit_text_hint">Input your Alarm time</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="label">Select your Alarm input type from below:</string>
+</resources>
